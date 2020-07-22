@@ -1,2 +1,2 @@
 # app1
-created fiest app on android studio
+created first app on android studio
